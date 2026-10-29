@@ -1,0 +1,12 @@
+Segment,Customers,Bookings,Net_Revenue,Avg_Revenue_per_Booking,Avg_Lead_Time,Cancelled,Cancel_Rate_Pct
+Champions,232,3098,1700706.61,548.97,26.57,418,13.49
+Loyal Customers,141,1136,629547.29,554.18,26.1,162,14.26
+At Risk,68,410,255190.96,622.42,34.23,54,13.17
+Hibernating,118,294,151911.38,516.71,25.65,34,11.56
+Potential Loyalists,81,283,113210.98,400.04,27.82,32,11.31
+Can't Lose Them,55,69,86033.35,1246.86,19.49,14,20.29
+Need Attention,29,157,77042.04,490.71,27.18,21,13.38
+Promising,56,105,66209.51,630.57,28.02,11,10.48
+About to Sleep,70,105,44272.3,421.64,26.0,20,19.05
+Lost,85,116,33058.97,284.99,31.16,17,14.66
+Recent Customers,54,76,31895.35,419.68,30.7,14,18.42
